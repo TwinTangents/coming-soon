@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Free coming soon template with jQuery countdown">
+    <meta name="author" content="http://bootstraptaste.com">
+    <link rel="shortcut icon" href="assets/img/favicon.png">
+
+    <title>SocialCoder.tv</title>
+
+	<!-- Mail Chimp -->
+	<link href="assets/css/classic-10_7.css" rel="stylesheet" type="text/css">
+	
+    <!-- Bootstrap -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+	<link href="assets/css/bootstrap-theme.css" rel="stylesheet">
+
+    <!-- siimple style -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+	<div id="wrapper">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12 col-md-12 col-lg-12">
+					<h1>SocialCoder.tv</h1>
+					<h2 class="subtitle">LiveCoding.tv can't keep us down! We're streaming on Twitch.tv now.</h2>
+					<div id="countdown"></div>
+					<h2 class="subtitle">Want to know when we live stream our development process?</h2>
+					<form action="//socialcoder.us13.list-manage.com/subscribe/post?u=06cc846369ae41c284eef603b&amp;id=32184f2328" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline signup" role="form" target="_blank" novalidate>
+					  <div class="form-group">
+						<input type="email" value="" name="EMAIL" class="required email form-control" style="width: 450px" id="mce-EMAIL" placeholder="Enter your email address">
+					  </div>
+					  <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_06cc846369ae41c284eef603b_32184f2328" tabindex="-1" value=""></div>
+    
+	<input type="submit" value="Get notified!" name="subscribe" id="mc-embedded-subscribe" class="btn btn-theme" style="display: inline-block; margin-left: 0;-">
+					</form>		
+					
+				</div>
+				
+			</div>
+			
+			<div class="row text-center" style="color: white; padding-top: 20px; display: flex;">
+				<div style="margin-right: 20px;">
+					<div>
+						<h3 style="color: white;">LiveCoding.tv Clone [Frontend]</h3>
+					</div>
+					<a href="http://twitch.tv/genzume">
+						<img style="max-width: 50%" src="assets/img/Twitch_Logo_White.png" />
+					</a>
+					<div>Watch Spidy</div>
+				</div>
+				
+				<div>
+					<div>
+						<h3 style="color: white;">LiveCoding.tv Clone [Backend]</h3>
+					</div>
+					<a href="http://twitch.tv/genzume">
+						<img style="max-width: 50%" src="assets/img/Twitch_Logo_White.png" />
+					</a>
+					<div>Watch Tyler</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-lg-6 col-lg-offset-3">
+						<p class="copyright">Copyright &copy; 2016. All rights reserved. <a href="http://bootstraptaste.com/">Bootstrap Themes</a> by BootstrapTaste</p>
+                        <!-- 
+                            All links in the footer should remain intact. 
+                            Licenseing information is available at: http://bootstraptaste.com/license/
+                            You can buy this theme without footer links online at: http://bootstraptaste.com/buy/?theme=WeBuild
+                        -->
+				</div>
+			</div>			
+		</div>
+	</div>
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+	<script src="assets/js/jquery.countdown.min.js"></script>
+	<script type="text/javascript">
+  $('#countdown').countdown('2016/06/01', function(event) {
+    $(this).html(event.strftime('%w weeks %d days <br /> %H:%M:%S'));
+  });
+</script>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+  </body>
+</html>
