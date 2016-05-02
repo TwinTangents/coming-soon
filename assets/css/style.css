@@ -27,8 +27,8 @@ body {
   -webkit-overflow-scrolling: touch;
 }
 
-.brand-color { color: hsla(50,100%,40%,1); }
-.brand-background-color { background-color: hsla(50,100%,40%,1); }
+.brand-color { color: hsla(50,90%,45%,1); }
+.brand-background-color { background-color: hsla(50,90%,45%,1); }
 
 .title {
 	margin: 0;
