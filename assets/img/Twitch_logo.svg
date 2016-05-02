@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 id="twitch-logo" inkscape:version="0.48.2 r9819" sodipodi:docname="Twitch logo with Icon.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 332.1"
+	 style="enable-background:new 0 0 1000 332.1;" xml:space="preserve">
+	 <style type="text/css">
+	 	.color { fill: rgba(255, 255, 255, 1); }
+	 </style>
+	 <path inkscape:connector-curvature="0" class="color " d="M976.7,114.7l-40-40h-74.2V23.3h-62.8v234.1h62.8V137.5
+		h51.4v119.9h62.8V114.7z M776.9,74.7h-97l-40,40v102.8l40,40h97v-62.8h-74.2v-57.1h74.2C776.9,137.5,776.9,74.7,776.9,74.7z
+		 M617,74.7h-51.4V23.3h-62.8v194.1l40,40H617v-62.8h-51.4v-57.1H617V74.7L617,74.7z M480,23.3h-62.8v28.6H480V23.3z M480,74.7h-62.8
+		v182.7H480V74.7z M394.4,74.7h-62.8v119.9h-22.8V74.7H246v119.9h-22.8V74.7h-62.8v182.7h194.1l40-40L394.4,74.7L394.4,74.7z
+		 M137.5,74.7H86.1V23.3H23.3v194.1l40,40h74.2v-62.8H86.1v-57.1h51.4L137.5,74.7L137.5,74.7z M999.5,103.2v171.3l-85.6,57.1h-57.1
+		V303l-40,28.6h-51.4V303l-28.5,28.6h-91.3L617,303l-5.7,28.6h-79.9L498.7,303l-1.8,28.6h-90.6l-3.2-28.6l-24.5,28.6H240.3
+		l-28.5-11.4v11.4h-74.2l-85.6-51.4L0.5,228.9V0.5H109l51.4,51.4h234.1V0.5h194.1v51.4h51.4v28.5l28.6-28.5h57.1l51.4-51.4h108.5
+		v51.4h62.8L999.5,103.2z"/>
+</svg>
