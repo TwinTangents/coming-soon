@@ -1,0 +1,23 @@
+{
+  "name": "coming-soon",
+  "version": "0.0.0",
+  "description": "Thanks for downloading this theme!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TwinTangents/coming-soon.git"
+  },
+  "author": "Nick Ferraro <nick.ferraro@hackreactor.com>",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/TwinTangents/coming-soon/issues"
+  },
+  "homepage": "https://github.com/TwinTangents/coming-soon#readme",
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
